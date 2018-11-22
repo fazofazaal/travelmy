@@ -1,6 +1,6 @@
 {
-  "name": "barber-jekyll",
-  "description": "Barber is a blog theme for Jekyll built by Thomas Vaeth at Samesies using HTML, Sass, and JavaScript.",
+  "name": "TravelMY",
+  "description": "Travel blog by Hussain Fazaal, documenting the travels around Malaysia, during his time as an undergrad student.",
   "demo": "http://barber.samesies.io",
   "version": "1.0.0",
   "scripts": {
@@ -15,14 +15,14 @@
     "url": "http://samesies.io"
   },
   "keywords": [
-    "barber",
+    "malaysia",
     "jekyll",
     "blog",
-    "theme"
+    "travel"
   ],
   "dependencies": {
     "aos": "^2.2.0",
-    "jquery": "2.2.4",
+    "jquery": "3.0.0",
     "salvattore": "^1.0.9"
   },
   "devDependencies": {
